@@ -36,6 +36,7 @@ async function quantidadeUsuariosPorRede() {
             }
         }
     },
+    
     yaxis: {
         tickfont: tickConfig,
         title: {
